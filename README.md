@@ -1,1 +1,2 @@
 # python-journey
+A structured and hands-on learning path for mastering Python programming. This repository documents my progress, experiments, and projects as I explore Python fundamentals, data structures, algorithms, and real-world applications. Each step reflects growth—from beginner concepts to advanced problem-solving—serving both as a personal learning log and a resource for others starting their own Python journey.
